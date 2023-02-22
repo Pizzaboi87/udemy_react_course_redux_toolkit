@@ -21,12 +21,12 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDDU4V-_QV3M8GyhC9SVieRTDM4dbiT0Yk',
-  authDomain: 'crwn-clothing-db-98d4d.firebaseapp.com',
-  projectId: 'crwn-clothing-db-98d4d',
-  storageBucket: 'crwn-clothing-db-98d4d.appspot.com',
-  messagingSenderId: '626766232035',
-  appId: '1:626766232035:web:506621582dab103a4d08d6',
+  apiKey: "AIzaSyCD5P0L7cBzpzdSe2rf8Z23IQ37L0UFfvQ",
+  authDomain: "udemy-course-db-1bd3c.firebaseapp.com",
+  projectId: "udemy-course-db-1bd3c",
+  storageBucket: "udemy-course-db-1bd3c.appspot.com",
+  messagingSenderId: "423227788621",
+  appId: "1:423227788621:web:72cb9a50bff920afb87b04"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
